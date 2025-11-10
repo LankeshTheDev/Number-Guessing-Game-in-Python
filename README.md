@@ -22,8 +22,6 @@ Guess the correct number in as few attempts as possible to earn maximum points!
   - 🤡 **Noob Guesser** (10+ attempts)
 
 You can quit anytime by typing **"quit"**.  
-After all rounds, you’ll see a detailed breakdown of attempts per round and your total score.
-
 ---
 
 ## 🧩 Features
@@ -35,5 +33,3 @@ After all rounds, you’ll see a detailed breakdown of attempts per round and yo
 ✅ Input validation & error handling  
 
 ---
-
-## 📸 Sample Gameplay
